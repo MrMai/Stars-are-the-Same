@@ -1,2 +1,2 @@
-# Stars-are-the-Same
+# Stars are the Same
 No matter how far you go...
